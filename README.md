@@ -1,7 +1,6 @@
 # Brain Tumor MRI Classifier
 
-![Brain Tumor Classification Demo](https://raw.githubusercontent.com/AbidHasanRafi/brain-tumor-detection-streamlit/main/header.png)
-
+![Brain Tumor Classification Demo](https://raw.githubusercontent.com/Robin-2023/brain-tumor-mri-classifier/main/assets/header.png)
 A deep learning-powered web application for detecting and classifying brain tumors from MRI scans with explainable AI features.
 
 ## Table of Contents
