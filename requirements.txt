@@ -1,0 +1,6 @@
+streamlit
+torch
+matplotlib
+torchvision
+opencv-python
+opencv-python-headless
