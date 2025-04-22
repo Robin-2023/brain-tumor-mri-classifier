@@ -156,4 +156,4 @@ Critical notices:
 2. Disclose AI-assisted nature of results
 3. Validate findings with clinical protocols
 
-For research collaborations or technical inquiries, please contact: [robintheslaveofallah@gmail.com](mailto:robintheslaveofallah@gmail.com)
+For research collaborations or technical inquiries, please contact: [haquerobin161@gmail.com](mailto:haquerobin161@gmail.com)
