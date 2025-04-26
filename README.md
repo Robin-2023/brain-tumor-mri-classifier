@@ -89,14 +89,17 @@ The model combines three parallel feature extraction pathways to leverage differ
   - Positional encodings
 
 **Fusion & Classification**:
-```mermaid
+![Brain Tumor Classification Demo](https://raw.githubusercontent.com/Robin-2023/brain-tumor-mri-classifier/main/assets/feature.png)
+`
+<!-- ``mermaid
+
 graph LR
     B1 -->|512-d| Fusion
     B2 -->|512-d| Fusion
     B3 -->|512-d| Fusion
     Fusion -->|1536-d| FC128
     FC128 -->|128-d| FC3
-```
+``` -->
 
 ## Technical Details
 
