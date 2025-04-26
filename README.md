@@ -90,8 +90,7 @@ The model combines three parallel feature extraction pathways to leverage differ
 
 **Fusion & Classification**:
 
-mermaid
-
+```mermaid
 graph LR
     B1 -->|512-d| Fusion
     B2 -->|512-d| Fusion
