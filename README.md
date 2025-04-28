@@ -1,6 +1,16 @@
 # Brain Tumor MRI Classifier
 
-![Brain Tumor Classification Demo](https://raw.githubusercontent.com/Robin-2023/brain-tumor-mri-classifier/main/assets/header.png),(https://raw.githubusercontent.com/Robin-2023/brain-tumor-mri-classifier/main/assets/interface1.png)
+![Brain Tumor Classification Demo](https://raw.githubusercontent.com/Robin-2023/brain-tumor-mri-classifier/main/assets/header.png)
+
+A deep learning-based web application for classifying brain tumors from MRI images into three categories.
+
+---
+
+## 🖼️ Prediction
+
+![App Interface](https://raw.githubusercontent.com/Robin-2023/brain-tumor-mri-classifier/main/assets/interface1.png)
+## Explainability
+![App Interface](https://raw.githubusercontent.com/Robin-2023/brain-tumor-mri-classifier/main/assets/interface2.png)
 A deep learning-powered web application for detecting and classifying brain tumors from MRI scans with explainable AI features.
 
 ## Table of Contents
